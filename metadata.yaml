@@ -1,5 +1,8 @@
 _repo: Is-it-I-A-book-for-every-man_70283
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70283-h/images/cover.jpg
 creator:
   author:
     agent_name: Storer, Horatio Robinson
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53248
     wikipedia: https://en.wikipedia.org/wiki/Horatio_Storer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70283#Is-it-I-A-book-for-every-man
 gutenberg_issued: '2023-03-13'
 identifiers:
   gutenberg: '70283'
